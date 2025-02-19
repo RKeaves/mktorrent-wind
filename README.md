@@ -102,4 +102,4 @@ Navigate to the downloaded folder and double-click install.cmd to create a deskt
 
 
 
-Credits to [q3aql](https://github.com/q3aql) for the development of `mktorrent-win`.
+Credits to [q3aql](https://github.com/q3aql)
