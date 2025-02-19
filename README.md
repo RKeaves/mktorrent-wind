@@ -22,6 +22,8 @@
 
 ## New Feature: mk-command-gen.py
 
+<img src="https://ptpimg.me/0my3j9.gif" width="900">
+
 if you have folders named Folder1, Folder2, and Folder3, the loop processes each folder in turn and runs the mktorrent command, resulting in the creation of Folder1.torrent, Folder2.torrent, and Folder3.torrent respectively.
 
 A new script, `mk-command-gen.py`, has been added to streamline the process of generating mktorrent commands. This script:
