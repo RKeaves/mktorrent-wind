@@ -43,14 +43,14 @@ it also converts windows paths into properly escaped cygwin compatible paths.
 
  Enter base path (Windows format, e.g., C:\Folder\[ My uploads ]\): C:\Folder\[ My uploads ]
  Enter announce URL: FLAG
- Enter source: https:///announceURL
+ Enter source: https:///announce.URL
 
 Compiled Command:
 
 cd /cygdrive/c/Folder/\[\ My\ uploads\ \]
 
 for folder in */; do
-    mktorrent --announce=FLAG --source=https:///announceURL -p "$folder"
+    mktorrent --announce=FLAG --source=https:///announce.URL -p "$folder"
 done
 
 Command copied to clipboard!
